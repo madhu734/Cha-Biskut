@@ -1,0 +1,6 @@
+{
+  "name": "চায়ে বিস্কুট ডুবানো সিমুলেটর (Cha-Biscuit Dipping Simulator)",
+  "description": "A hilarious 3D physics and timing-based stress-relief game inspired by Bangladeshi roadside tea stalls (Tong-er Dokan). Dip your biscuit in hot milk tea without letting it snap!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
